@@ -39,7 +39,7 @@
 - **Production NLP Pipelines**
 
 ### **Financial AI** ⭐⭐⭐⭐
-- **Automated Financial News Summarizer** — Real-time sentiment analysis
+- **Automated Financial News Summarizer**
 - **Time-series Forecasting** for market prediction
 - **Power BI Integration** for business intelligence
 - **Risk Analysis & Dashboard** development
@@ -97,72 +97,6 @@
 
 ---
 
-## 📦 Featured Projects
-
-### 🚀 **Financial News Sentiment Analyzer**
-Automatic financial news summarization using state-of-the-art transformers with real-time sentiment analysis
-
-| Feature    | Technology                   |
-|------------|-----------------------------|
-| **Model**  | DistilBERT, T5 Transformers |
-| **Framework** | PyTorch, Hugging Face    |
-| **Dashboard** | Power BI with real-time updates |
-| **Pipeline**  | End-to-end NLP processing |
-| **Status**    | 🟢 Active & Production-Ready |
-
----
-
-### 🎬 **Movie Rating Prediction System**
-Advanced ML model predicting IMDb movie ratings using feature engineering and ensemble methods
-
-| Feature     | Details                      |
-|-------------|-----------------------------|
-| **Dataset** | IMDb 250k+ movies           |
-| **Model**   | Ensemble (XGBoost, Random Forest) |
-| **Accuracy**| 92%+ prediction accuracy    |
-| **Tech Stack** | Pandas, Scikit-learn, Python |
-| **Status**  | ✅ Completed                |
-
----
-
-### 🚗 **Urban Traffic Density Prediction**
-Time-series forecasting model predicting traffic congestion patterns using LSTM and statistical methods
-
-| Feature    | Details                        |
-|------------|-------------------------------|
-| **Data**   | Real-time traffic sensors      |
-| **Model**  | LSTM Neural Networks           |
-| **Accuracy**| 88%+ forecasting accuracy     |
-| **Visualization** | Interactive Power BI dashboard|
-| **Status** | ✅ Deployed                    |
-
----
-
-### 🔒 **DOM XSS Vulnerability Detection**
-Ethical hacking project identifying security vulnerabilities in web applications
-
-| Feature     | Details                       |
-|-------------|------------------------------|
-| **Focus**   | Security Analysis            |
-| **Method**  | Pattern Recognition          |
-| **Impact**  | Critical vulnerability detection |
-| **Tech**    | Python, Regex, Security Analysis |
-| **Status**  | ✅ Completed                 |
-
----
-
-### 🎤 **Meeting Automation & Multilingual NLP**
-Automated meeting transcription, summarization, and analysis with multilingual support
-
-| Feature    | Details                      |
-|------------|-----------------------------|
-| **Languages** | Multi-language support   |
-| **Output** | Transcripts + Summaries      |
-| **Tech**   | NLP, Speech Processing       |
-| **Status** | 🟡 In Development            |
-
----
-
 ## 📊 Skills Overview
 
 
@@ -170,7 +104,7 @@ Automated meeting transcription, summarization, and analysis with multilingual s
 
 ## 🎓 Learning & Growth
 
-- 🔬 **Current Focus:** Advanced transformer architectures, model quantization, and edge deployment
+- 🔬 **Current Focus:** Getting into new stuff to explore
 - 📚 **Continuous Learning:** Latest NLP research, production ML systems, MLOps
 - 🚀 **Next Goals:** Build financial prediction models, contribute to open-source NLP, explore LLM fine-tuning
 - 💼 **Industry Interests:** FinTech, LegalTech, HealthTech AI solutions
